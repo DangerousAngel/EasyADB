@@ -22,28 +22,17 @@
 * Android ADB installed and available in PATH
 * USB debugging enabled on the Android device
 
-## Installation
+## Installation and usage
 
 ```bash
 git clone https://github.com/yourusername/EasyADB.git
 cd EasyADB
 python EasyADB.py
 ```
-
-## Usage
-
-Connect your Android device and run:
-
-```bash
-python EasyADB.py
-```
-
 Select the desired operation from the interactive menu.
 
 ## Disclaimer
 
 Some features may require root access or additional device permissions depending on the Android version and manufacturer restrictions.
 
-## Author
 
-**DangerousAngel**
